@@ -1,1 +1,1 @@
-# myShellScripts - List od shell scripts
+# myShellScripts - List of shell scripts
